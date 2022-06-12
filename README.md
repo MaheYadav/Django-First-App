@@ -17,3 +17,8 @@ If you try this example in your system you must need python 3.8 version and Djag
 
 step 1 :
 
+Click the green color code button and to see the last option  download zip file where you want in your system.
+
+step 2 :
+
+Extarct file which 
