@@ -21,4 +21,18 @@ Click the green color code button and to see the last option  download zip file 
 
 step 2 :
 
-Extarct file which 
+Extarct the file which project have been downloaded .
+
+Step 3 :
+
+Directly Open the command prompt from project loaction after that run the following command 
+   -->>python manage.py runserver 
+   
+Step 4 :
+
+Be Patience final  Step to see the output  copy the url from command prompt tab and paste the url in any browser.
+
+Thanks For Read This Please  click star symbol and folloe me for more Django Projects.
+
+
+   
