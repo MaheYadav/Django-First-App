@@ -32,7 +32,7 @@ Step 4 :
 
 Be Patience final  Step to see the output  copy the url from command prompt tab and paste the url in any browser.
 
-Thanks For Read This Please  click star symbol and folloe me for more Django Projects.
+Thanks For Read This Please  click star symbol and follow me for more Django Projects.
 
 
    
