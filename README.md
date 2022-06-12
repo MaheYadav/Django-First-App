@@ -6,7 +6,7 @@ Django is a high-level Python web framework that enables rapid development of se
 2.Installed  django packeges through command prompt below the 
 (py -m pip install Django) for more information read this documentation(https://docs.djangoproject.com/en/4.0/topics/install/#install-python)
 
-Prequiters:
+Prerequiters : 
 
 1.Python 3.8
 2.Django version 2.2
